@@ -1,1 +1,1 @@
-Visit this link to see the output : https://tejasj25.github.io/my-portfolioWebsite/
+Visit this link to see the output : https://tejas-portfolio-website.netlify.app/
